@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{91E14B8B-C1CA-45AF-B12C-BD95BAA63AF1}|TickTakToe.csproj|c:\\users\\user\\desktop\\repo\\study\\ticktaktoe\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{91E14B8B-C1CA-45AF-B12C-BD95BAA63AF1}|TickTakToe.csproj|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\TickTakToe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TickTakToe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{91E14B8B-C1CA-45AF-B12C-BD95BAA63AF1}|TickTakToe.csproj|c:\\users\\user\\desktop\\repo\\study\\ticktaktoe\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91E14B8B-C1CA-45AF-B12C-BD95BAA63AF1}|TickTakToe.csproj|solutionrelative:mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\TickTakToe.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\TickTakToe.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TickTakToe.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E14B8B-C1CA-45AF-B12C-BD95BAA63AF1}|TickTakToe.csproj|c:\\users\\user\\desktop\\repo\\study\\ticktaktoe\\ticktaktoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{91E14B8B-C1CA-45AF-B12C-BD95BAA63AF1}|TickTakToe.csproj|solutionrelative:ticktaktoe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,10 +35,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T09:56:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -45,27 +62,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TickTakToe.csproj.user",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\TickTakToe.csproj.user",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\TickTakToe.csproj.user",
               "RelativeDocumentMoniker": "TickTakToe.csproj.user",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\TickTakToe.csproj.user",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\TickTakToe.csproj.user",
               "RelativeToolTip": "TickTakToe.csproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2025-06-02T13:45:27.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:45:27.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TickTakToe.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\TickTakToe.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\TickTakToe.csproj",
               "RelativeDocumentMoniker": "TickTakToe.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WPF\\TickTakToe\\TickTakToe.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\TickTakToe\\TickTakToe.csproj",
               "RelativeToolTip": "TickTakToe.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T13:45:27.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:45:27.177Z"
             }
           ]
         }
