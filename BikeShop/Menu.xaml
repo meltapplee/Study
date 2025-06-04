@@ -6,9 +6,28 @@
       xmlns:local="clr-namespace:BikeShop"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Menu">
+      Title="Menu"
+      Background="{StaticResource background}">
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Ellipse Fill="DarkGray" Margin="10,10,0,0"/> <!--회색 원-->
+                            <Ellipse Fill="{TemplateBinding Background}" Margin="0,0,10,10"/> <!--이게 흰색 원-->
+                            <Viewbox Margin="5,5,15,15">
+                                <ContentPresenter />
+                            </Viewbox>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
 
-    <Grid Background="White">
+
+    <Grid>
         <Button x:Name="Button" Content="Products" HorizontalAlignment="Left" Margin="166,159,0,0" VerticalAlignment="Top" Height="112" Width="112
                 " Click="Button_Click"/>
         <Button x:Name="Button1" Content="Live Support" HorizontalAlignment="Left" Margin="342,161,0,0" VerticalAlignment="Top" Height="112" Width="112" Click="Button1_Click"/>

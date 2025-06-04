@@ -7,7 +7,8 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="Discussion"
-      xmlns:data="clr-namespace:BikeShop">
+      xmlns:data="clr-namespace:BikeShop"
+      Background="{StaticResource background}">
 
     <Grid>
         <Grid.ColumnDefinitions>
@@ -42,7 +43,24 @@
         <Button Grid.Row="1" 
                 Grid.Column="1"
                 Margin="5"
-                Content="Send"/>
+                Background="Orange"
+                Content="Send">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="Green" Margin="10, 10, 0, 0" />
+                        <Ellipse Fill="{TemplateBinding Background}" Margin="0, 0, 10, 10" />
+                        <Viewbox Margin="5, 5, 15, 15">
+                            <ContentPresenter 
+                                ContentSource="Content"
+                                HorizontalAlignment="Center" 
+                                VerticalAlignment="Center"/>
+                        </Viewbox>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
 
         <TextBox Grid.Row="1"
                  Grid.Column="0"

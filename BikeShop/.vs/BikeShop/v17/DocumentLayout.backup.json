@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\5379ee7fbe9dd796744a3812cb8cd4107fbf69f5bc7b33073e12cc254138767f\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\discussion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:discussion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\productsmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -14,12 +15,38 @@
       "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:productsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\contact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:contact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\ee8ea4dc964dfc9d68ffbbe12bcb219e5aecdbe74daaead404de2cab67c7f724\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\discussion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:discussion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\5379ee7fbe9dd796744a3812cb8cd4107fbf69f5bc7b33073e12cc254138767f\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:notifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +57,8 @@
       "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\discussion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:discussion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\discussion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:discussion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\talk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,10 +67,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\productsmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:productsmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -71,10 +78,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\chat.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:chat.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\contact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|solutionrelative:contact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1473419-9C0F-4CAF-90A1-3BD662978E53}|BikeShop.csproj|c:\\users\\user\\desktop\\repo\\study\\bikeshop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,6 +96,70 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T03:10:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml.cs*",
+              "RelativeToolTip": "Menu.xaml.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:02:18.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml",
+              "RelativeDocumentMoniker": "Contact.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml",
+              "RelativeToolTip": "Contact.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T10:29:27.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml.cs",
+              "RelativeDocumentMoniker": "Contact.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml.cs",
+              "RelativeToolTip": "Contact.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:31:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Talk.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Talk.cs",
+              "RelativeDocumentMoniker": "Talk.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Talk.cs",
+              "RelativeToolTip": "Talk.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:36:33.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -121,69 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Discussion.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml",
-              "RelativeDocumentMoniker": "Discussion.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml",
-              "RelativeToolTip": "Discussion.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T11:30:25.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Notifier.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Notifier.cs",
-              "RelativeDocumentMoniker": "Notifier.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Notifier.cs",
-              "RelativeToolTip": "Notifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T00:19:06.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Contact.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml",
-              "RelativeDocumentMoniker": "Contact.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml",
-              "RelativeToolTip": "Contact.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T10:29:27.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Talk.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Talk.cs",
-              "RelativeDocumentMoniker": "Talk.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Talk.cs",
-              "RelativeToolTip": "Talk.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:36:33.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Menu.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml",
-              "RelativeDocumentMoniker": "Menu.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml",
-              "RelativeToolTip": "Menu.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T11:01:19.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -196,32 +201,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Discussion.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml",
+              "RelativeDocumentMoniker": "Discussion.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml",
+              "RelativeToolTip": "Discussion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:30:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ItemCollection.cs",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\5379ee7fbe9dd796744a3812cb8cd4107fbf69f5bc7b33073e12cc254138767f\\ItemCollection.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5379ee7fbe9dd796744a3812cb8cd4107fbf69f5bc7b33073e12cc254138767f\\ItemCollection.cs",
               "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\5379ee7fbe9dd796744a3812cb8cd4107fbf69f5bc7b33073e12cc254138767f\\ItemCollection.cs [\uC77D\uAE30 \uC804\uC6A9]",
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5379ee7fbe9dd796744a3812cb8cd4107fbf69f5bc7b33073e12cc254138767f\\ItemCollection.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "ViewState": "AgIAAG8GAAAAAAAAAAAkwIMGAAACAAAAAQAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T02:59:38.151Z",
               "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-04T03:10:03.39Z",
+              "DocumentIndex": 6,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml",
+              "RelativeDocumentMoniker": "Menu.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml",
+              "RelativeToolTip": "Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:01:19.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\ee8ea4dc964dfc9d68ffbbe12bcb219e5aecdbe74daaead404de2cab67c7f724\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee8ea4dc964dfc9d68ffbbe12bcb219e5aecdbe74daaead404de2cab67c7f724\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\ee8ea4dc964dfc9d68ffbbe12bcb219e5aecdbe74daaead404de2cab67c7f724\\XamlReader.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee8ea4dc964dfc9d68ffbbe12bcb219e5aecdbe74daaead404de2cab67c7f724\\XamlReader.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAOoBAAAAAAAAAAAkwP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:22:46.054Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Discussion.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml.cs",
+              "RelativeDocumentMoniker": "Discussion.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml.cs",
+              "RelativeToolTip": "Discussion.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:19:56.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notifier.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Notifier.cs",
+              "RelativeDocumentMoniker": "Notifier.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Notifier.cs",
+              "RelativeToolTip": "Notifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T00:19:06.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -232,12 +291,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -250,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductsManagement.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\ProductsManagement.xaml.cs",
               "RelativeDocumentMoniker": "ProductsManagement.xaml.cs",
@@ -263,33 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Discussion.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml.cs",
-              "RelativeDocumentMoniker": "Discussion.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Discussion.xaml.cs",
-              "RelativeToolTip": "Discussion.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:19:56.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Menu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml.cs",
-              "RelativeDocumentMoniker": "Menu.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Menu.xaml.cs",
-              "RelativeToolTip": "Menu.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAUwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T11:02:18.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
@@ -302,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BikeShop.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\BikeShop.csproj",
               "RelativeDocumentMoniker": "BikeShop.csproj",
@@ -314,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "chat.png",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\chat.png",
               "RelativeDocumentMoniker": "chat.png",
@@ -325,19 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Contact.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml.cs",
-              "RelativeDocumentMoniker": "Contact.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\Contact.xaml.cs",
-              "RelativeToolTip": "Contact.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T10:31:42.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
