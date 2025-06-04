@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\WPF\\BikeShop\\BikeShop.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\BikeShop.csproj",
       "projectName": "BikeShop",
-      "projectPath": "C:\\Users\\user\\Desktop\\WPF\\BikeShop\\BikeShop.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\BikeShop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\WPF\\BikeShop\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\repo\\Study\\BikeShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,5 +11,8 @@
     <Compile Update="Menu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="ProductsManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

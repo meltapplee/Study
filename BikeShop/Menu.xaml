@@ -9,11 +9,10 @@
       Title="Menu">
 
     <Grid Background="White">
-        <Button Content="Products" HorizontalAlignment="Left" Margin="106,159,0,0" VerticalAlignment="Top" Height="112" Width="112
+        <Button x:Name="Button" Content="Products" HorizontalAlignment="Left" Margin="166,159,0,0" VerticalAlignment="Top" Height="112" Width="112
                 " Click="Button_Click"/>
-        <Button Content="Live Support" HorizontalAlignment="Left" Margin="245,159,0,0" VerticalAlignment="Top" Height="112" Width="112" Click="Button_Click_2"/>
-        <Button Content="Email Support" HorizontalAlignment="Left" Margin="386,159,0,0" VerticalAlignment="Top" Height="112" Width="112                 " Click="Button_Click_1"/>
-        <TextBlock HorizontalAlignment="Left" Margin="155,324,0,0" TextWrapping="Wrap" Text="Adventure Work" VerticalAlignment="Top" Height="46" Width="304"/>
-
+        <Button x:Name="Button1" Content="Live Support" HorizontalAlignment="Left" Margin="342,161,0,0" VerticalAlignment="Top" Height="112" Width="112" Click="Button1_Click"/>
+        <Button x:Name="Button2" Content="Email Support" HorizontalAlignment="Left" Margin="516,160,0,0" VerticalAlignment="Top" Height="112" Width="112  " Click="Button2_Click"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,324,0,0" TextWrapping="Wrap" Text="Adventure Work" VerticalAlignment="Top" Height="46" Width="251" FontSize="30" FontWeight="Bold"/>
     </Grid>
 </Page>
